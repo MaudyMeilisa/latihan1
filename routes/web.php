@@ -77,7 +77,7 @@ Route ::get('isi',function(){
             'mapel2'=>'Bahasa Inggris',
             'mapel3'=>'Matematika',
         ]],
-        ['id'=>2,'name'=>'Risma Fahilah', 'username'=>'Risma_fadi1','email'=>'risma@gamil.com','alamat'=>"ciparay",'mapel'=>[
+        ['id'=>2,'name'=>'Risma Fadhilah', 'username'=>'Risma_fadi1','email'=>'risma@gamil.com','alamat'=>"ciparay",'mapel'=>[
             'mapel1'=>'Bahasa Indonesia',
             'mapel2'=>'Bahasa Inggris',
             'mapel3'=>'Matematika',
